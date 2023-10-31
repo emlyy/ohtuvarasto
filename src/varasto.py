@@ -1,3 +1,4 @@
+# jokin muutos teht 11 osa 3
 class Varasto:
     def __init__(self, tilavuus, alku_saldo = 0):
         if tilavuus > 0.0:
